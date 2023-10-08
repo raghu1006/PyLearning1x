@@ -1,3 +1,8 @@
+# Task 2
+# Take a input from a user and print the table
+# How to use the print with formatting f
+# print(f''), How can print the same?
+
 num = int(input('enter the value:'))
 
 print(num, 'x', 1, '=', num*1)
