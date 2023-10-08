@@ -1,4 +1,4 @@
-# Task 2
+# Task 2:
 # Take a input from a user and print the table
 # How to use the print with formatting f
 # print(f''), How can print the same?
